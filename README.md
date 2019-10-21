@@ -54,11 +54,13 @@ Our social media WordPress plugin comes with another great option called Widget.
 # Features
 
 Aesthetically appealing five themes to choose from.
+
 Major social media platforms such as Facebook, Twitter, Instagram, Youtube, and Sound Cloud are included.
-Customizable counter format
-Easy to install and
-Use the latest APIs to fetch data
-Free updates
+
+   -  Customizable counter format
+   -  Easy to install and
+   -  Use the latest APIs to fetch data
+   -  Free updates
 
 # Changelog
 
